@@ -1,6 +1,6 @@
 # Leodymann - #OpenToWork
 
-### Desenvolvedor Back-end Junior
+### Desenvolvedor Back-end
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/leodymann/)](https://www.linkedin.com/in/leodymann/) 
 [![Gmail Badge](https://img.shields.io/badge/-ofleodymann@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:ofleodymann@gmail.com)](mailto:ofleodymann@gmail.com)
